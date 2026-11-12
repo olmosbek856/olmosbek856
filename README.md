@@ -10,7 +10,7 @@ I build real products with AI, Python and TypeScript.
 
 Live SAT prep platform with a personal AI tutor ("Lolo"). **~100 real students · 3,600+ SAT questions.**
 
-- AI tutor on the OpenAI API (GPT-5 mini), can switch to Claude
+- AI tutor on the OpenAI API, can switch to Claude
 - Monthly LLM cost limit with an automatic lighter mode
 - LLM evals and automated tests (Vitest)
 - Next.js 14 · TypeScript · PostgreSQL (Prisma) · Docker
